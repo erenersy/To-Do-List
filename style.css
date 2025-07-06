@@ -1,0 +1,29 @@
+.ekran {
+    width: 300px;
+    height: 200px;
+    background-color: #00d9f6;
+    border: 10px solid #1c1c1c;
+    padding: 20px;
+    margin: 50px auto;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+}
+
+#yazi {
+    font-size: 20px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+}
+
+body {
+    background-color: #00d9f6;
+    font-family: Arial, Helvetica, sans-serif;
+}
